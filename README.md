@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Developed a Red Team tool using Python         | <a href="https://github.com/haroon-86/NetTrace-Capstone-Project-">Project Link</a>|
-| Active Directory Lab | <a href="https://google.com">Lab Link</a>|
+| Active Directory Lab                           | <a href="https://github.com/haroon-86/Active-Directory-Lab-using-Oracle-VirtualBox">Lab Link</a>|
 <!--| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

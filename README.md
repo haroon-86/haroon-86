@@ -13,6 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Developed an Advanced Keylogger tool using Python         | <a href="https://github.com/haroon-86/NetTrace-Capstone-Project-">Project Link</a>|
 | Active Directory Lab                           | <a href="https://github.com/haroon-86/Active-Directory-Lab-using-Oracle-VirtualBox">Lab Link</a>|
+| Attacking ICS Lab #1 & #2                                                | <a href="https://github.com/haroon-86/Attacking-ICS-Lab/tree/main">Lab Link</a>|
 <!--| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

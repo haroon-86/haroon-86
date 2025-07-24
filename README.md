@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Advanced Keylogger Tool (Python + FirebaseDB)         | <a href="https://github.com/haroon-86/NetTrace-Capstone-Project-">Project Link</a>|
+| Security Application (Python + FirebaseDB)         | <a href="https://github.com/haroon-86/NetTrace-Capstone-Project-">Project Link</a>|
 | Active Directory Lab                           | <a href="https://github.com/haroon-86/Active-Directory-Lab-using-Oracle-VirtualBox">Lab Link</a>|
 | Attacking ICS Lab #1 & #2                                                | <a href="https://github.com/haroon-86/Attacking-ICS-Lab/tree/main">Lab Link</a>|
 | Network Design Lab                                                | <a href="https://github.com/haroon-86/Network-Design-Lab">Lab Link</a>|
